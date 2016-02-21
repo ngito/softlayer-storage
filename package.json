@@ -1,0 +1,32 @@
+{
+  "name": "softlayer-storage",
+  "version": "1.0.0",
+  "description": "SoftLayer ObjectStorage API",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.7",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supergee/softlayer-storage.git"
+  },
+  "keywords": [
+    "objectstorage",
+    "softlayer",
+    "ibm"
+  ],
+  "author": "Nugroho Gito",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/supergee/softlayer-storage/issues"
+  },
+  "homepage": "https://github.com/supergee/softlayer-storage#readme"
+}
