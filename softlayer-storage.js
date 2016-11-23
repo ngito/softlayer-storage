@@ -1,7 +1,7 @@
 'use strict'
 
 var _request  = require('request')
-  , _uuid     = require('node-uuid')
+  , _uuid     = require('uuid')
   , _token    = null
   , _authData = null
 
